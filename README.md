@@ -1,1 +1,1 @@
-# bank-churn-eda
+Canadian Retail Banking Churn EDA
